@@ -1,0 +1,9 @@
+Package: xpde-picview
+Version: 1.0.0+git2024.11.02
+Architecture: amd64
+Maintainer: hcsubser
+Installed-Size: 452
+Depends: libc6 (>= 2.29), libgtk-3-0 (>= 3.22.0), libjpeg8 (>= 8c)
+Priority: optional
+Homepage: https://github.com/hcsubser/xpde-picview
+Description: Windows XP Picture And Fax Viewer Clone

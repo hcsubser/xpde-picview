@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Xpde Image Viewer
+Comment=Browse and rotate images
+GenericName=Image viewer
+Exec=xpde-picview
+Icon=image-viewer
+Type=Application
+Categories=Graphics;
